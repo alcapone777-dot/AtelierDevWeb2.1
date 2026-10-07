@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5 ;
+  color:#173766;
+  background-color: #13f6fb;
+
+}
+header, footer {
+    text-align: center;
+
+}
+h1 { 
+font-size: 28px;
+
+}
+
